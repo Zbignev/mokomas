@@ -1,6 +1,4 @@
-#include <iostream>
-using namespace std;
-int main(){
-cout<<"llllll";
-return 0;
-}
+Versijoje v0.2:
+kazkas atsirado lt
+versijoje v0.1 :
+buvo realizuota Hello World en versija
